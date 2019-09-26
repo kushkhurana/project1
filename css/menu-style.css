@@ -1,0 +1,27 @@
+
+.cont
+	{
+		width: 100%;
+		margin: auto;
+
+	}
+	ul
+	{
+		margin: 0;
+		padding: 0;
+		background-color: black;
+		list-style: none;
+		overflow: auto;
+	}
+	ul li
+	{
+		float: left;
+	}
+	ul li a
+	{
+		display: block;
+		padding: 10px 40px;
+		color: lime;
+		text-decoration: none;
+		font-size: 20px;
+	}
